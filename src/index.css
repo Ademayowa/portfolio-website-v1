@@ -1,0 +1,36 @@
+:root {
+  --primary-blue: #333647;
+  --secondary-blue: #282a39;
+  --pink-color: #f97b58;
+  --white-color: #fff;
+}
+
+body {
+  font-family: 'Nunito', sans-serif !important;
+}
+
+a {
+  background-color: none !important;
+}
+
+p {
+  font-size: 18px;
+}
+
+.app {
+  background-color: var(--secondary-blue);
+}
+
+.center-line {
+  background-color: var(--glyphicons-color);
+  height: 2px;
+  margin: 0px auto 25px;
+  width: 150px;
+}
+
+.center-line {
+  background-color: var(--pink-color);
+  height: 2px;
+  margin: 0px auto 25px;
+  width: 150px;
+}

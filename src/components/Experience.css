@@ -1,0 +1,29 @@
+.experience {
+  padding-top: 80px;
+  background-color: var(--secondary-blue);
+  color: var(--white-color);
+}
+
+.experience__duties {
+  display: grid;
+  grid-template-columns: auto 2fr;
+  column-gap: 2rem;
+}
+
+.experience__duties svg {
+  color: var(--pink-color);
+}
+
+.btn-link {
+  border: none;
+  background-color: var(--primary-blue) !important;
+  color: white;
+  text-decoration: none !important;
+}
+
+.btn__active,
+.btn-link:focus,
+.btn-link:hover {
+  color: var(--pink-color);
+  border-left: 2px solid var(--pink-color);
+}

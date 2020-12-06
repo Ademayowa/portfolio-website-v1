@@ -1,0 +1,18 @@
+.hero {
+  background: var(--primary-blue);
+  padding: 80px 20px;
+  color: var(--white-color);
+}
+
+.hero h2 {
+  font-size: 54px;
+  font-weight: 700;
+}
+
+.social__icons {
+  font-size: 30px;
+}
+
+.social__icons svg {
+  color: var(--pink-color) !important;
+}
