@@ -1,5 +1,6 @@
 {
   "name": "portfolio-website",
+  "proxy": "http://localhost:5000",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +8,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
+    "firebase": "^8.1.2",
     "mdbootstrap": "^4.19.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",

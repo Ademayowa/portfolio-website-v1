@@ -19,6 +19,7 @@ p {
 
 .app {
   background-color: var(--secondary-blue);
+  height: 100vmin;
 }
 
 .center-line {

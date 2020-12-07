@@ -19,6 +19,8 @@
   background-color: var(--primary-blue) !important;
   color: white;
   text-decoration: none !important;
+  text-transform: capitalize;
+  font-size: 16px;
 }
 
 .btn__active,
