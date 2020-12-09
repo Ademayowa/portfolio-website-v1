@@ -45,9 +45,6 @@ p {
     font-size: 30px !important;
     margin-top: -40px;
   }
-}
-
-@media (max-width: 576px) {
   .hero__intro {
     margin-bottom: 50px;
   }

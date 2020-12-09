@@ -19,16 +19,6 @@ const jobs = [
     ],
     company: 'Bincom ICT Solutions, Lagos Nigeria',
   },
-  {
-    title: 'IT Support Intern',
-    dates: 'April 2012 - September 2012',
-    duties: [
-      'Installing and configuring computer hardware software and printers',
-      'Investigating diagnosing and solving computer software and hardware faults',
-      'Replacing computer parts as required by the ministry',
-    ],
-    company: 'Ministry of Science & Technology, Lagos Nigeria',
-  },
 ];
 
 export default jobs;
