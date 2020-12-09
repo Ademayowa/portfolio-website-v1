@@ -1,6 +1,7 @@
 import React from 'react';
 import Hero from './components/Hero';
 import Experience from './components/Experience';
+import Projects from './components/Projects';
 import './index.css';
 
 const App = () => {
@@ -8,6 +9,7 @@ const App = () => {
     <div className='app'>
       <Hero />
       <Experience />
+      <Projects />
     </div>
   );
 };

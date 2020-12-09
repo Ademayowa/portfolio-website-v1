@@ -7,6 +7,7 @@
 
 body {
   font-family: 'Nunito', sans-serif !important;
+  background-color: var(--secondary-blue);
 }
 
 a {
@@ -34,4 +35,20 @@ p {
   height: 2px;
   margin: 0px auto 25px;
   width: 150px;
+}
+
+@media (max-width: 576px) {
+  .hero__intro,
+  .hero__name,
+  .experience h2,
+  .projects h2 {
+    font-size: 30px !important;
+    margin-top: -40px;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero__intro {
+    margin-bottom: 50px;
+  }
 }

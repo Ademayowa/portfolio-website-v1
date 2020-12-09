@@ -1,0 +1,33 @@
+.projects {
+  padding: 80px 20px;
+  background: var(--secondary-blue);
+}
+
+.card {
+  background-color: var(--primary-blue);
+}
+
+.card__content {
+  padding: 20px 0;
+}
+
+.card__bottom svg {
+  color: var(--pink-color);
+  font-size: 20px;
+}
+
+.card__bottom svg:hover {
+  color: var(--white-color);
+}
+
+.badge__icons span {
+  margin-right: 10px;
+  font-size: 17px;
+}
+
+.card:hover {
+  background: var(--secondary-blue) !important;
+  transition: background 2s, transform 3s ease-in;
+  cursor: pointer;
+  color: var(--white-color);
+}

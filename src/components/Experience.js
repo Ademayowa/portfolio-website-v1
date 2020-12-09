@@ -29,7 +29,7 @@ const Experience = () => {
   return (
     <div className='container-fluid experience'>
       <div className='row'>
-        <div className='col-lg-7 mx-auto'>
+        <div className='col-lg-10 mx-auto'>
           <h2 className='text-center'>Experience</h2>
           <div className='center-line' />
           <div className='jobs'>

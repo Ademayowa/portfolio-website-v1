@@ -1,7 +1,19 @@
 .experience {
-  padding-top: 80px;
+  padding: 80px 20px 0px 20px;
   background-color: var(--secondary-blue);
   color: var(--white-color);
+}
+
+.job__info {
+  padding: 5px 0;
+}
+
+.job__info h3 {
+  font-size: 24px;
+}
+
+.job__info h4 {
+  font-size: 20px;
 }
 
 .experience__duties {
@@ -12,6 +24,7 @@
 
 .experience__duties svg {
   color: var(--pink-color);
+  margin-top: 4px;
 }
 
 .btn-link {
