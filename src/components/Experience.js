@@ -16,7 +16,7 @@ const Experience = () => {
                 const { title, company, dates, duties } = item;
 
                 return (
-                  <div key={item.id} className='mt-4'>
+                  <div key={item.id} className='mt-4 mb-4'>
                     <h3>{title}</h3>
                     <h4>{company}</h4>
                     <p className='mb-5'>{dates}</p>
@@ -24,12 +24,8 @@ const Experience = () => {
                     <>
                       {duties.map((duty, index) => {
                         return (
-                          <div key={index} className='d-flex'>
-                            <BsChevronDoubleRight
-                              className='mr-4 mt-1'
-                              size={20}
-                              color='#f97b58'
-                            />
+                          <div key={index} className='experience__duties'>
+                            <BsChevronDoubleRight />
                             <p>{duty}</p>
                           </div>
                         );

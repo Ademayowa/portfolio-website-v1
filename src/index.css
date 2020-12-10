@@ -10,6 +10,17 @@ body {
   background-color: var(--secondary-blue);
 }
 
+body::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(#333647, #f97b58);
+  clip-path: circle(25% at right 10%);
+}
+
 a {
   background-color: none !important;
 }
@@ -20,7 +31,6 @@ p {
 
 .app {
   background-color: var(--secondary-blue);
-  height: 100vmin;
 }
 
 .center-line {
@@ -41,11 +51,17 @@ p {
   .hero__intro,
   .hero__name,
   .experience h2,
-  .projects h2 {
+  .projects h2,
+  .job__info {
     font-size: 30px !important;
-    margin-top: -40px;
+    margin-top: -30px;
   }
+
   .hero__intro {
     margin-bottom: 50px;
+  }
+
+  .hero__whatIDo {
+    font-size: 20px;
   }
 }

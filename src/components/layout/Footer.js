@@ -1,12 +1,11 @@
 import React from 'react';
-import './Footer.css';
 
 const Footer = () => {
   return (
-    <div className='footer p-4'>
+    <div className='footer pt-5 pb-2'>
       <div className='container text-center'>
         <a className='text-white' href='!#'>
-          Built by Mayorstacks
+          Built by Mayowa Adeniyi
         </a>
       </div>
     </div>
