@@ -7,12 +7,12 @@ import './index.css';
 
 const App = () => {
   return (
-    <div className='app'>
+    <>
       <Hero />
       <Experience />
       <Projects />
       <Footer />
-    </div>
+    </>
   );
 };
 
