@@ -9,7 +9,7 @@ const Hero = () => {
         <div className='col-lg-10 mx-auto'>
           <h2 className='hero__intro'>Hello!</h2>
           <h2 className='hero__name'>My name is Mayowa Adeniyi</h2>
-          <p className='col-lg-8 pl-0 mt-4 mb-4 hero__whatIDo'>
+          <p className='col-lg-9 pl-0 mt-4 mb-4 hero__whatIDo'>
             I'm primarily a front-end software engineer focused on building user
             interface for websites & web applications. I also have some
             experience with Node.js, Express and MongoDB.
