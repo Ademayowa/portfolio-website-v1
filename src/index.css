@@ -43,18 +43,18 @@ p {
   width: 150px;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 640px) {
   .hero__intro,
   .hero__name,
   .experience h2,
   .projects h2,
   .job__info {
     font-size: 30px !important;
-    margin-top: -30px;
+    margin-top: -10px;
   }
 
   .hero__intro {
-    margin-bottom: 50px;
+    margin-bottom: 20px;
   }
 
   .hero__whatIDo {

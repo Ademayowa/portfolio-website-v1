@@ -5,7 +5,7 @@ import './Projects.css';
 
 const Projects = () => {
   return (
-    <div className='projects container'>
+    <div className='projects'>
       <div className='text-white'>
         <h2 className='text-center'>Projects</h2>
         <div className='center-line' />

@@ -5,7 +5,7 @@ import './Experience.css';
 
 const Experience = () => {
   return (
-    <div className='container-fluid experience'>
+    <div className='experience'>
       <div className='row'>
         <div className='col-lg-10 mx-auto'>
           <h2 className='text-center'>Experience</h2>
@@ -16,10 +16,10 @@ const Experience = () => {
                 const { title, company, dates, duties } = item;
 
                 return (
-                  <div key={item.id} className='mt-4 mb-4'>
+                  <div key={item.id} className='mt-5 mb-5'>
                     <h3>{title}</h3>
                     <h4>{company}</h4>
-                    <p className='mb-5'>{dates}</p>
+                    <p className='mb-4'>{dates}</p>
 
                     <>
                       {duties.map((duty, index) => {
