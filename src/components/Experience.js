@@ -19,7 +19,7 @@ const Experience = () => {
                   <div key={item.id} className='mt-5 mb-5'>
                     <h3>{title}</h3>
                     <h4>{company}</h4>
-                    <p className='mb-4'>{dates}</p>
+                    <p className='mb-4 jobs__date'>{dates}</p>
 
                     <>
                       {duties.map((duty, index) => {

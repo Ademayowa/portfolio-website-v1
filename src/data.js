@@ -7,7 +7,7 @@ const jobs = [
       'Guide students through the development of their final projects using the MERN stack',
       'Taught and guided students how to build RESTFUL APIs using Node.js Express and MongoDB',
     ],
-    company: 'NIIT Limited, Lagos Nigeria',
+    company: 'NIIT Limited',
   },
   {
     title: 'Front-End Developer Intern',
@@ -17,7 +17,7 @@ const jobs = [
       'Worked with designers to implement user-friendly landing pages for web applications',
       'Fixing bugs to ensure web based applications are responsive across different devices',
     ],
-    company: 'Bincom ICT Solutions, Lagos Nigeria',
+    company: 'Bincom ICT Solutions',
   },
 ];
 

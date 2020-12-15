@@ -3,12 +3,13 @@ import { FaGithubSquare } from 'react-icons/fa';
 import { FiExternalLink } from 'react-icons/fi';
 import './ProjectList.css';
 
-const ProjectList = ({ project: { title, technologies, url, repo } }) => {
+const ProjectList = ({ project: { title, info, technologies, url, repo } }) => {
   return (
     <div className='card card-body projectList'>
       <div className='card__content text-white'>
         <h4>{title}</h4>
-        <div className='badge__icons mt-3 mb-3'>
+        <p className='mt-3 mb-4'>{info}</p>
+        <div className='badge__icons mt-3 mb-4'>
           <span>{technologies}</span>
         </div>
 
