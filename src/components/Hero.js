@@ -1,5 +1,6 @@
 import React from 'react';
 import { FaTwitterSquare, FaGithubSquare, FaLinkedin } from 'react-icons/fa';
+// import Img from '../images/1.png'
 import './Hero.css';
 
 const Hero = () => {

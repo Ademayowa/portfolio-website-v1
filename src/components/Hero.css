@@ -1,6 +1,7 @@
 .hero {
   padding: 50px 20px;
   color: var(--white-color);
+  position: relative;
 }
 
 .hero h2 {

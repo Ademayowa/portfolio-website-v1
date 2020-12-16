@@ -31,6 +31,16 @@ p {
   font-weight: 300;
 }
 
+.shape {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  object-fit: contain;
+  width: 100%;
+  z-index: 100;
+}
+
 .center-line {
   background-color: var(--glyphicons-color);
   height: 2px;
