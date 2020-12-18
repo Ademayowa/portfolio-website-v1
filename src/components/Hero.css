@@ -20,3 +20,7 @@
 .social__icons svg {
   color: var(--pink-color) !important;
 }
+
+.social__icons svg:hover {
+  color: var(--white-color) !important;
+}
