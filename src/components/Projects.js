@@ -8,7 +8,7 @@ const Projects = () => {
     <div className='projects'>
       <div className='text-white'>
         <h2 className='text-center'>Projects</h2>
-        <div className='center-line' />
+        <div className='center-line mb-5' />
       </div>
 
       <div style={grid}>

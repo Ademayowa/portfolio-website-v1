@@ -5,8 +5,8 @@ import './ProjectList.css';
 
 const ProjectList = ({ project: { title, info, technologies, url, repo } }) => {
   return (
-    <div className='card card-body projectList mt-4'>
-      <div className='card__content text-white mt-4 mb-4'>
+    <div className='card card-body projectList'>
+      <div className='card__content text-white mt-3 mb-3'>
         <h4>{title}</h4>
         <p className='mt-3 mb-4'>{info}</p>
         <div className='badge__icons mt-3 mb-4'>
