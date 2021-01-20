@@ -1,7 +1,7 @@
 const jobs = [
   {
     title: 'Web Development Instructor',
-    dates: 'May 2019 - Present',
+    dates: 'May 2019 - November 2020',
     duties: [
       'Taught students how to build responsive layouts with HTML CSS and JavaScript (React & Redux)',
       'Guide students through the development of their final projects using the MERN stack',
