@@ -32,11 +32,11 @@ const projects = [
   },
   {
     id: '5',
-    title: 'Courier Logistics Website',
-    technologies: 'HTML CSS',
-    info: 'A landing page for a logistics company',
-    url: 'https://logistics-template.netlify.app/',
-    repo: 'https://github.com/Ademayowa/logistics-template',
+    title: 'Landing Page Website',
+    technologies: 'React CSS',
+    info: 'A landing page website built with react',
+    url: 'https://api-pay.netlify.app/',
+    repo: 'https://github.com/Ademayowa/pay-api-multipage-website',
   },
   {
     id: '6',
