@@ -1,7 +1,8 @@
 :root {
-  --primary-blue: #333647;
+  /* --primary-blue: #333647; */
+  --primary-blue: #131d2f;
   /* --secondary-blue: #282a39; */
-  --secondary-blue: #252735;
+  --secondary-blue: #0f1624;
   --pink-color: #f97b58;
   --white-color: #fff;
 }
@@ -11,7 +12,7 @@ body {
   background-color: var(--secondary-blue) !important;
 }
 
-body::before {
+/* body::before {
   content: '';
   position: absolute;
   top: 0;
@@ -20,7 +21,7 @@ body::before {
   height: 100%;
   background: linear-gradient(#333647, #f97b58);
   clip-path: circle(25% at right 10%);
-}
+} */
 
 a {
   background-color: none !important;
@@ -69,7 +70,7 @@ p {
     margin-bottom: 20px;
   }
 
-  .hero__whatIDo {
+  .hero__lead {
     font-size: 20px;
   }
 }

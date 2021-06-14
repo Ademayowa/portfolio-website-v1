@@ -7,7 +7,7 @@ const Experience = () => {
   return (
     <div className='experience'>
       <div className='row'>
-        <div className='col-lg-10 mx-auto'>
+        <div className='col-lg-12'>
           <h2 className='text-center'>Experience</h2>
           <div className='center-line' />
           <div className='jobs'>

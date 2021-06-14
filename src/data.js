@@ -13,9 +13,9 @@ const jobs = [
     title: 'Front-End Developer Intern',
     dates: 'August 2017 - January 2018',
     duties: [
-      'Built new user interface using CSS frameworks (Bootstrap and Materialize CSS)',
+      'Built new user interface using various CSS frameworks',
       'Worked with designers to implement user-friendly landing pages for web applications',
-      'Fixing bugs to ensure web based applications are responsive across different devices',
+      'Fixing bugs to ensure web applications are responsive on different devices',
     ],
     company: 'Bincom ICT Solutions',
   },
