@@ -5,7 +5,7 @@ const jobs = [
     duties: [
       'Integrating APIs into web applications that runs on the blockchain network',
       'Building websites & applications using react',
-      'Collaborated with designers & backend engineers when developing responsive layout',
+      'Collaborated with designers & backend engineers on different blockchain products',
     ],
     company: 'Jelurida Africa',
   },
