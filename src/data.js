@@ -1,7 +1,7 @@
 const jobs = [
   {
     title: 'Front-End Engineer',
-    dates: 'Feburary 2021 - Present',
+    dates: 'February 2021 - Present',
     duties: [
       'Integrating APIs into web applications that runs on the blockchain network',
       'Building websites & applications using react',
