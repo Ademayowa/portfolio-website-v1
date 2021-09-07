@@ -11,7 +11,7 @@ const Hero = () => {
           <h2 className='hero__intro'>Hello!</h2>
           <h2 className='hero__name'>My name is Mayowa Adeniyi</h2>
           <p className='col-lg-11 col-md-11 pl-0 mt-4 mb-2 hero__lead'>
-            I'm a front-end software engineer based in Nigeria, focused on
+            I'm a Frontend software engineer based in Nigeria, focused on
             building user interface for websites & web applications. I also have
             some experience with Node.js, Express and MongoDB.
           </p>

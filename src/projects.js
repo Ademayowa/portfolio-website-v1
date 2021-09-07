@@ -20,7 +20,7 @@ const projects = [
     technologies: 'React Bootstrap',
     info: 'A landing page website built with react',
     url: 'https://api-pay.netlify.app/',
-    // repo: 'https://github.com/Ademayowa/pay-api-multipage-website',
+    repo: 'https://github.com/Ademayowa/pay-api-multipage-website',
   },
   {
     id: '4',
@@ -44,6 +44,7 @@ const projects = [
     technologies: 'React Bootstrap CSS',
     info: 'My portfolio website',
     url: 'https://mayorstacks.netlify.app/',
+    repo: 'https://github.com/Ademayowa/portfolio-website-v1',
   },
 ];
 

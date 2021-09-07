@@ -1,6 +1,6 @@
 const jobs = [
   {
-    title: 'Front-End Engineer',
+    title: 'Frontend Engineer',
     dates: 'February 2021 - Present',
     duties: [
       'Integrating APIs into web applications that runs on the blockchain network',
@@ -20,7 +20,7 @@ const jobs = [
     company: 'NIIT Limited',
   },
   {
-    title: 'Front-End Engineer',
+    title: 'Frontend Engineer Intern',
     dates: 'August 2017 - January 2018',
     duties: [
       'Built new user interface using various CSS frameworks',
