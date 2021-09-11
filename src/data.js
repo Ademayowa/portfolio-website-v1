@@ -1,10 +1,10 @@
 const jobs = [
   {
-    title: 'Frontend Engineer',
+    title: 'Software Engineer',
     dates: 'February 2021 - Present',
     duties: [
       'Integrating APIs into web applications that runs on the blockchain network',
-      'Building websites & applications using react',
+      'Building web applications, dashboard, landing pages using react & next.js',
       'Collaborated with designers & backend engineers on different blockchain products',
     ],
     company: 'Jelurida Africa',
