@@ -9,7 +9,7 @@ const projects = [
   {
     id: '2',
     title: 'Job Search Application',
-    info: 'A job search web application for software developers',
+    info: 'A job search application for software developers',
     technologies: 'Node.js MongoDB Express React',
     url: 'https://devportals.herokuapp.com/',
     repo: 'https://github.com/Ademayowa/job_app_v1',
