@@ -20,7 +20,7 @@ const jobs = [
     company: 'NIIT Limited',
   },
   {
-    title: 'Frontend Engineer Intern',
+    title: 'Frontend Engineer',
     dates: 'August 2017 - January 2018',
     duties: [
       'Built new user interface using various CSS frameworks',
