@@ -16,11 +16,11 @@ const projects = [
   },
   {
     id: '3',
-    title: 'MultiPage Website',
-    technologies: 'React Bootstrap',
-    info: 'A landing page website built with react',
-    url: 'https://api-pay.netlify.app/',
-    repo: 'https://github.com/Ademayowa/pay-api-multipage-website',
+    title: 'Movie Trailer App',
+    technologies: 'Next.js TailwindCSS TMDB-API',
+    info: 'A Movie Trailer Application',
+    url: 'https://movie-trailers-three.vercel.app/',
+    repo: 'https://github.com/Ademayowa/movie-trailers',
   },
   {
     id: '4',
