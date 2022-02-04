@@ -1,10 +1,10 @@
 const jobs = [
   {
-    title: 'Front-End Engineer',
-    dates: 'Feburary 2021 - Present',
+    title: 'Software Engineer',
+    dates: 'February 2021 - Present',
     duties: [
       'Integrating APIs into web applications that runs on the blockchain network',
-      'Building websites & applications using react',
+      'Building web applications, dashboard, landing pages with react & next.js',
       'Collaborated with designers & backend engineers on different blockchain products',
     ],
     company: 'Jelurida Africa',
@@ -20,7 +20,7 @@ const jobs = [
     company: 'NIIT Limited',
   },
   {
-    title: 'Front-End Engineer',
+    title: 'Frontend Engineer',
     dates: 'August 2017 - January 2018',
     duties: [
       'Built new user interface using various CSS frameworks',

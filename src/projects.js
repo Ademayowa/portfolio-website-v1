@@ -9,18 +9,18 @@ const projects = [
   {
     id: '2',
     title: 'Job Search Application',
-    info: 'A job search web application for software developers',
+    info: 'A job search application for software developers',
     technologies: 'Node.js MongoDB Express React',
     url: 'https://devportals.herokuapp.com/',
     repo: 'https://github.com/Ademayowa/job_app_v1',
   },
   {
     id: '3',
-    title: 'MultiPage Website',
-    technologies: 'React Bootstrap',
-    info: 'A landing page website built with react',
-    url: 'https://api-pay.netlify.app/',
-    // repo: 'https://github.com/Ademayowa/pay-api-multipage-website',
+    title: 'Movie Trailer App',
+    technologies: 'Next.js TailwindCSS TMDB-API',
+    info: 'A Movie Trailer Application',
+    url: 'https://movie-trailers-three.vercel.app/',
+    repo: 'https://github.com/Ademayowa/movie-trailers',
   },
   // {
   //   id: '4',
@@ -44,6 +44,7 @@ const projects = [
     technologies: 'React Bootstrap CSS',
     info: 'My portfolio website',
     url: 'https://mayorstacks.netlify.app/',
+    repo: 'https://github.com/Ademayowa/portfolio-website-v1',
   },
 ];
 
