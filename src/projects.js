@@ -22,14 +22,14 @@ const projects = [
     url: 'https://api-pay.netlify.app/',
     // repo: 'https://github.com/Ademayowa/pay-api-multipage-website',
   },
-  {
-    id: '4',
-    title: 'Facebook Clone',
-    technologies: 'React Firebase CSS',
-    info: 'A simple facebook web app clone built with react & firebase',
-    url: 'https://prodfacebook-clone.web.app/',
-    repo: 'https://github.com/Ademayowa/twitter-demo-firebase',
-  },
+  // {
+  //   id: '4',
+  //   title: 'Real Estate App',
+  //   technologies: 'React Nextjs RapidAPI',
+  //   info: 'A simple facebook web app clone built with react & firebase',
+  //   url: 'https://prodfacebook-clone.web.app/',
+  //   repo: 'https://github.com/Ademayowa/twitter-demo-firebase',
+  // },
   {
     id: '5',
     title: 'LinkedIn Profile Dashboard',
