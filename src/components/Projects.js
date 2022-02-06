@@ -7,7 +7,7 @@ const Projects = () => {
   return (
     <div className='projects'>
       <div className='text-white'>
-        <h2 className='text-center'>Stuffs I Have Built</h2>
+        <h2 className='text-center'>My Projects</h2>
         <div className='center-line mb-5' />
       </div>
 
